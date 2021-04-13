@@ -1,2 +1,2 @@
-# Algorithm
-New project, learning how to create algorithms
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
